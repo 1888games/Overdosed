@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1525264873301010}
+  m_IsPrefabParent: 1
+--- !u!1 &1525264873301010
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4854007313895124}
+  - component: {fileID: 114438415057746390}
+  - component: {fileID: 114460861817299936}
+  m_Layer: 0
+  m_Name: InAudio BankLinkSave
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4854007313895124
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1525264873301010}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114438415057746390
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1525264873301010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a785e6fa4a5d2474e9612f1c2f69580d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _guid: 1757633511
+  _type: 0
+  _name: Root
+  _parent: {fileID: 0}
+  _children:
+  - {fileID: 114460861817299936}
+  _autoLoad: 0
+  _bankData: []
+  FoldedOut: 1
+  Filtered: 0
+--- !u!114 &114460861817299936
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1525264873301010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a785e6fa4a5d2474e9612f1c2f69580d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _guid: 1022830001
+  _type: 1
+  _name: Default - Auto loaded
+  _parent: {fileID: 114438415057746390}
+  _children: []
+  _autoLoad: 1
+  _bankData:
+  - AudioNode: {fileID: 114199487350119000, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114017844948923308, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114218607598241734, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114893515061542468, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114122303532926750, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114432382323946350, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114138369352075548, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114164966812523454, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114131169334329534, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114708681092816442, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114914876694310534, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114164740936656308, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114677040892057054, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114295390591494720, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  - AudioNode: {fileID: 114043367568994990, guid: b32d257c8e8e04d90970dccfa09e4b04,
+      type: 2}
+    MusicNode: {fileID: 0}
+  FoldedOut: 1
+  Filtered: 0

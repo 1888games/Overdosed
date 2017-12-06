@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: df02b5661837c4326a1749361d5134b0
+timeCreated: 1511474366
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Babiole
+  fontNames:
+  - Babiole
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: afde4b80896da41d68c7aab5522901a9, type: 3}
+  - {fileID: 12800000, guid: 0eee09e1c26d248cc8ef49e10061376f, type: 3}
+  - {fileID: 12800000, guid: 888146b3394b6468ba806b166eeff3d7, type: 3}
+  - {fileID: 12800000, guid: 7b3b7cf3332844be99e86a070d36a4d0, type: 3}
+  - {fileID: 12800000, guid: 2762b006deb1b482290c08d9c081da44, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b9176556bc56b4dc9b84246657c43ae3
+timeCreated: 1511474366
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Comiquita Sans
+  fontNames:
+  - Comiquita Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

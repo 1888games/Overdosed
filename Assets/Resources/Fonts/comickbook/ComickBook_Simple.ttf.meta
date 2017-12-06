@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6283f210cdd1e4830b0012c1a7459e2f
+timeCreated: 1511474365
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ComickBook
+  fontNames:
+  - ComickBook
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
